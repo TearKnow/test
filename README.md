@@ -1,7 +1,8 @@
 # test
 
 github 使用
-1.本地安装git客户端
+
+1. 本地安装git客户端
 	git config --global user.name "tiemaocsdn"  
 	git config --global user.email "tiemaocsdn@qq.com"  
 	git config --global push.default simple 
